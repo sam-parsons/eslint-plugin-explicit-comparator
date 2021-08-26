@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-explicit-comparator",
+  "version": "1.0.0",
+  "description": "require a comparator function when using Array.prototype.sort",
+  "main": "lib/index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-parsons/eslint-plugin-explicit-comparator.git"
+  },
+  "author": "Sam Parsons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam-parsons/eslint-plugin-explicit-comparator/issues"
+  },
+  "homepage": "https://github.com/sam-parsons/eslint-plugin-explicit-comparator#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  }
+}
