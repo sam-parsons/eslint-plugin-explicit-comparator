@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-explicit-comparator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "require a comparator function when using Array.prototype.sort",
   "main": "lib/index.js",
   "directories": {
