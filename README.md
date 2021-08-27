@@ -25,7 +25,7 @@ const sorted = [1, 10, 11, 100].sort(); // [1, 10, 100, 11]
 Examples of **correct** code for this rule:
 
 ```js
-const sorted = [1, 10, 100].sort(function (a, b) {
+const sorted = [1, 10, 100, 11].sort(function (a, b) {
   return a - b;
 }); // [1, 10, 11, 100]
 ```
