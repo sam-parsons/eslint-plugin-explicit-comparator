@@ -51,7 +51,7 @@ MIT
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com
 [node]: https://nodejs.org
-[build-badge]: https://img.shields.io/github/workflow/status/sam-parsons/eslint-plugin-explicit-comparator/validate?logo=github&style=flat-square
+[build-badge]: https://img.shields.io/github/workflow/status/sam-parsons/eslint-plugin-explicit-comparator/node-ci?logo=github&style=flat-square
 [build]: https://github.com/sam-parsons/eslint-plugin-explicit-comparator/actions?query=workflow%3Anode-ci
 [coverage-badge]: https://img.shields.io/codecov/c/github/sam-parsons/eslint-plugin-explicit-comparator.svg?style=flat-square
 [version-badge]: https://img.shields.io/npm/v/eslint-plugin-explicit-comparator.svg?style=flat-square
