@@ -14,7 +14,7 @@
 
 ## Rule Details
 
-Using the `sort` method without a comparator argument will coerce all elements in the array to strings and lexigraphically organized. When sorting an array of numbers or objects, it is advised to provide a comparator function; this plugin enforces that rule.
+Using the `sort` method without a comparator argument will coerce all elements in the array to strings and lexigraphically organize them. When sorting an array of numbers or objects, it is advised to provide a comparator function; this plugin enforces that rule.
 
 Examples of **incorrect** code for this rule:
 
